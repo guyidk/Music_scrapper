@@ -4,7 +4,7 @@ This project is a **Python-based automation script** that logs into your **Spoti
 
 Built for **educational** and **personal use**, it demonstrates skills in **web automation, scraping**, and **scripting** using Selenium and `undetected-chromedriver`.
 
-> **Disclaimer**  
+> ⚠️ **Disclaimer**  
 > This script is for **educational, personal, and non-commercial use only**.  
 > Downloading copyrighted content without permission may  
 > violate the **Terms of Service** of YouTube and Spotify.  
@@ -24,7 +24,7 @@ Built for **educational** and **personal use**, it demonstrates skills in **web 
 
 ---
 
-## 🛠 **Tech Stack**
+## **Tech Stack**
 
 - **Python 3**
 - **Selenium** (via `undetected-chromedriver`)
