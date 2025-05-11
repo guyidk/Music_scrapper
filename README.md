@@ -1,10 +1,10 @@
-# 🎵 **Spotify Liked Songs Downloader** — *Music Scraper*
+# **Spotify Liked Songs Downloader** — *Music Scraper*
 
 This project is a **Python-based automation script** that logs into your **Spotify account**, scrapes your **Liked Songs**, and searches for each track on **YouTube** to download the **audio** using `yt-dlp`.
 
-⚙️ Built for **educational** and **personal use**, it demonstrates skills in **web automation, scraping**, and **scripting** using Selenium and `undetected-chromedriver`.
+Built for **educational** and **personal use**, it demonstrates skills in **web automation, scraping**, and **scripting** using Selenium and `undetected-chromedriver`.
 
-> ⚠️ **Disclaimer**  
+> **Disclaimer**  
 > This script is for **educational, personal, and non-commercial use only**.  
 > Downloading copyrighted content without permission may  
 > violate the **Terms of Service** of YouTube and Spotify.  
@@ -12,15 +12,15 @@ This project is a **Python-based automation script** that logs into your **Spoti
 
 ---
 
-## ✨ **Features**
+## **Features**
 
-- 🔐 Automated Spotify login with Selenium
-- 🎧 Scrapes all *Liked Songs* from your account
-- 🔍 Searches for each track on YouTube using `yt-dlp`
-- 💾 Downloads the best available audio format (MP3/M4A)
-- 🎛 Interactive CLI selection of songs to download
-- 📜 Logs any download errors for review
-- 🔁 Automatically scrolls through Spotify to load your full liked songs list
+- Automated Spotify login with Selenium
+- Scrapes all *Liked Songs* from your account
+- Searches for each track on YouTube using `yt-dlp`
+- Downloads the best available audio format (MP3/M4A)
+- Interactive CLI selection of songs to download
+- Logs any download errors for review
+- Automatically scrolls through Spotify to load your full liked songs list
 
 ---
 
@@ -33,7 +33,7 @@ This project is a **Python-based automation script** that logs into your **Spoti
 
 ---
 
-## 🚀 **Setup Instructions**
+## **Setup Instructions**
 
 ### 1. **Clone the repository**
 
